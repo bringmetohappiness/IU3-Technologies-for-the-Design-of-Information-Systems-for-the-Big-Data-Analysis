@@ -1,0 +1,8 @@
+# PyCharm
+/.idea
+# виртуалка
+/venv
+# IPython
+.ipynb_checkpoints/
+# bytecode
+__pycache__/
